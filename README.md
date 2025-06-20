@@ -1,7 +1,7 @@
-
 <p align="center">
-      <img src="https://images.app.goo.gl/yPoDiJcVHj9xitN18" alt="Description of the image">
+  <img src="https://raw.githubusercontent.com/garv1garv/garv1garv/main/assets/banner.png" alt="Garv Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there 👋, I'm Garv Pratap Singh Rautela</h1>
 
