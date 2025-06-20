@@ -92,6 +92,14 @@
 </p>
 
 
+## 🧠 Languages I Use Most
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garv1garv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" title="Languages by GitHub Repo Usage" />
+</p>
+
+
+
 ## 🧠 Competitive Programming
 
 <p>
