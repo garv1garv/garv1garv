@@ -1,4 +1,4 @@
-mkdir garv1garv && cd garv1garv && cat > README.md << 'EOF'
+
 <!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=👨‍💻+ML+%26+DevOps+Developer;⚔️+Competitive+Programmer;🚀+Building+Smart+Systems+for+Tomorrow;🔥+Always+Learning+%7C+Always+Shipping">
