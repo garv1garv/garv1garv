@@ -58,9 +58,6 @@
 ---
 
 ## 🏆 Trophies
-
-<h2 align="center">🏆 GitHub Trophy Cabinet</h2>
-
 <!-- Row 1: Full Stats -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Visit Trophy Generator">
