@@ -1,5 +1,4 @@
 
-<!-- Typing Animation Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=👨‍💻+ML+%26+DevOps+Developer;⚔️+Competitive+Programmer;🚀+Building+Smart+Systems+for+Tomorrow;🔥+Always+Learning+%7C+Always+Shipping">
 </p>
@@ -22,7 +21,6 @@
 + ⚙️ Building ML & Infra tools that scale smartly
 + 📈 Always learning, optimizing, and contributing
 + 🛠️ Dreaming big: AI Research, System Design, Global Impact
-\`\`\`
 
 ---
 
@@ -111,6 +109,5 @@
 
 > 🧠 _"Code is poetry. Infrastructure is logic. AI is the future."_  
 > 🛠 *Let’s build it together.*
-EOF
 
 
