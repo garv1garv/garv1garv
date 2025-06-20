@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=👨‍💻+ML+%26+DevOps+Developer;⚔️+Competitive+Programmer;🚀+Building+Smart+Systems+for+Tomorrow;🔥+Always+Learning+%7C+Always+Shipping">
+      <img src="https://images.app.goo.gl/yPoDiJcVHj9xitN18" alt="Description of the image">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Garv Pratap Singh Rautela</h1>
