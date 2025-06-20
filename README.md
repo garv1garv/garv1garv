@@ -57,48 +57,13 @@
 
 ---
 
-## 🏆 Trophies
-<!-- Row 1: Full Stats -->
+## 🏆 Full GitHub Trophy Cabinet
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Visit Trophy Generator">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=matrix&column=7&margin-w=15&no-frame=true&no-bg=true"
-      alt="Garv's GitHub Trophies - Matrix Theme"
-      title="🏆 Overall GitHub Contributions"
-    />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Show All Achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophy Cabinet" />
   </a>
 </p>
-
-<!-- Row 2: Language & Contribution Specific Stats -->
-<p align="center">
-  <a href="https://github.com/garv1garv" title="See GitHub Stats">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=garv1garv&title=Commits,PullRequest,Repositories,Issues,Stars,Followers&theme=tokyonight&column=6&no-frame=true&no-bg=true"
-      alt="Detailed Contribution Trophies"
-      title="🏅 Commits | PRs | Issues | Stars | Followers | Repos"
-    />
-  </a>
-</p>
-
-<!-- Row 3: Languages -->
-<p align="center">
-  <a href="https://github.com/garv1garv" title="Most Used Languages">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=garv1garv&title=Languages&theme=onedark&column=3&no-frame=true&no-bg=true"
-      alt="Most Used Languages"
-      title="📚 Language Usage Stats"
-    />
-  </a>
-</p>
-
-
-## 🧠 Languages I Use Most
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garv1garv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" title="Languages by GitHub Repo Usage" />
-</p>
-
-
 
 ## 🧠 Competitive Programming
 
