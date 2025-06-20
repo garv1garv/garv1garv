@@ -1,72 +1,115 @@
-<!-- Banner Image -->
-![Header](https://your-custom-banner-link.com/banner.png)
+mkdir garv1garv && cd garv1garv && cat > README.md << 'EOF'
+<!-- Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=👨‍💻+ML+%26+DevOps+Developer;⚔️+Competitive+Programmer;🚀+Building+Smart+Systems+for+Tomorrow;🔥+Always+Learning+%7C+Always+Shipping">
+</p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there 👋, I'm Garv Pratap Singh Rautela</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:garvpratapsinghrautel007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=garv1garv&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 💻 I'm a **[Your Role]** with a passion for **[Key Skills/Focus]**
-- 🌱 Currently exploring **[Tech you're learning, e.g., GenAI, Web3, Rust]**
-- 🔭 Working on **[Your current project or area of focus]**
-- 💡 Interested in **[Fields like AI, Blockchain, Cloud, etc.]**
-- 🎯 Goals: Becoming a **[dream job/goal like FAANG engineer, Quant, CTO, etc.]**
-- 📍 Based in **[Your City, Country]**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,java,html,css,php)
-
-**Frameworks & Libraries:**  
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,django,tailwind,bootstrap,flask)
-
-**Tools & Platforms:**  
-![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman,figma,mysql,mongodb,aws)
+\`\`\`diff
++ 🔭 Passionate about AI, DevOps, and Competitive Programming
++ 🧠 Codeforces: Expert-level coder solving real challenges
++ ⚙️ Building ML & Infra tools that scale smartly
++ 📈 Always learning, optimizing, and contributing
++ 🛠️ Dreaming big: AI Research, System Design, Global Impact
+\`\`\`
 
 ---
 
-### 📈 GitHub Stats
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,aws" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,jupyter,flask" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=garv1garv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garv1garv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garv1garv&theme=tokyonight&hide_border=true&fire=F700FF" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🏆 Trophies
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: your.email@example.com
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=algolia&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 🧠 Competitive Programming
+
+<p>
+  <img src="https://img.shields.io/badge/Codeforces-_infinite_-blue?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-800%2B-orange?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-4★-brightgreen?style=flat-square&logo=codechef" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| 🔥 Project | 📘 Description | ⚙️ Tech |
+|-----------|----------------|--------|
+| **AI-Resume-Gen** | GenAI-powered tool to generate resumes from LinkedIn profiles | \`Python\`, \`LangChain\`, \`Flask\`, \`OpenAI\` |
+| **DevOps-Monitor** | Cloud-native dashboard to monitor Docker + K8s services | \`Kubernetes\`, \`Grafana\`, \`Prometheus\`, \`Docker\` |
+| **DSA-Tracker** | Track your LeetCode/CF/CC progress in real-time | \`React\`, \`Node.js\`, \`MongoDB\`, \`Express\` |
+
+---
+
+## 📬 Reach Out
+
+📧 **Email**: garvpratapsinghrautel007@gmail.com  
+🔗 **LinkedIn**: [Garv's Profile](https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/)
+
+---
+
+## 🧠 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=garv1garv&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+> 🧠 _"Code is poetry. Infrastructure is logic. AI is the future."_  
+> 🛠 *Let’s build it together.*
+EOF
+
 
