@@ -101,10 +101,10 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=garv1garv&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garv1garv&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
