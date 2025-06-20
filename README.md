@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,aws" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,jupyter,flask" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,typescript,flask" />
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql" />
   <br>
