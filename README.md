@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-\`\`\`diff
+
 + 🔭 Passionate about AI, DevOps, and Competitive Programming
 + 🧠 Codeforces: Expert-level coder solving real challenges
 + ⚙️ Building ML & Infra tools that scale smartly
