@@ -1,42 +1,32 @@
-<!-- Banner Image -->
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/garv1garv/garv1garv/main/banner.png" alt="Garv Banner" width="100%" />
 </p>
 
-<!-- Typing Intro -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+there+👋,+I'm+Garv+Pratap+Singh+Rautela;AI+Engineer+%7C+DevOps+Fanatic+%7C+Problem+Solver;Passionate+about+Code,+Infra+%26+AI+Research" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi there 👋, I'm Garv Pratap Singh Rautela</h1>
 
-<!-- Contact + Views -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:garvpratapsinghrautel007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=garv1garv&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:garvpratapsinghrautel007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=garv1garv&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Passionate about **AI**, **DevOps**, and **Competitive Programming**
-- 🧠 **Expert**-level coder on **Codeforces**
-- ⚙️ Building **ML & Infra tools** that scale smartly
-- 📈 Always learning, optimizing, and contributing
-- 🛠️ Dreaming big: **AI Research**, **System Design**, **Global Impact**
+
++ 🔭 Passionate about AI, DevOps, and Competitive Programming
++ 🧠 Codeforces: Expert-level coder solving real challenges
++ ⚙️ Building ML & Infra tools that scale smartly
++ 📈 Always learning, optimizing, and contributing
++ 🛠️ Dreaming big: AI Research, System Design, Global Impact
 
 ---
 
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,aws" />
   <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,typescript,flask" />
   <br>
@@ -59,25 +49,26 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=garv1garv&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garv1garv&theme=tokyonight&hide_border=true&fire=F700FF" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
-
+## 🏆 Full GitHub Trophy Cabinet
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=matrix&column=7&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Garv's Trophy Collection" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=matrix&column=7&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+    alt="Garv's Full GitHub Trophy Collection"
+  />
 </p>
 
----
 
 ## 🧠 Competitive Programming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/LeetCode-800%2B-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/CodeChef-4★-brightgreen?style=for-the-badge&logo=codechef" />
+<p>
+  <img src="https://img.shields.io/badge/Codeforces-_infinite_-blue?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-800%2B-orange?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/CodeChef-4★-brightgreen?style=flat-square&logo=codechef" />
 </p>
 
 ---
@@ -86,16 +77,16 @@
 
 | 🔥 Project | 📘 Description | ⚙️ Tech |
 |-----------|----------------|--------|
-| **AI-Resume-Gen** | GenAI-powered tool to generate resumes from LinkedIn profiles | `Python`, `LangChain`, `Flask`, `OpenAI` |
-| **DevOps-Monitor** | Cloud-native dashboard to monitor Docker + K8s services | `Kubernetes`, `Grafana`, `Prometheus`, `Docker` |
-| **DSA-Tracker** | Track your LeetCode/CF/CC progress in real-time | `React`, `Node.js`, `MongoDB`, `Express` |
+| **AI-Resume-Gen** | GenAI-powered tool to generate resumes from LinkedIn profiles | \`Python\`, \`LangChain\`, \`Flask\`, \`OpenAI\` |
+| **DevOps-Monitor** | Cloud-native dashboard to monitor Docker + K8s services | \`Kubernetes\`, \`Grafana\`, \`Prometheus\`, \`Docker\` |
+| **DSA-Tracker** | Track your LeetCode/CF/CC progress in real-time | \`React\`, \`Node.js\`, \`MongoDB\`, \`Express\` |
 
 ---
 
 ## 📬 Reach Out
 
-📧 **Email**: [garvpratapsinghrautel007@gmail.com](mailto:garvpratapsinghrautel007@gmail.com)  
-🔗 **LinkedIn**: [Garv’s Profile](https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/)
+📧 **Email**: garvpratapsinghrautel007@gmail.com  
+🔗 **LinkedIn**: [Garv's Profile](https://www.linkedin.com/in/garv-pratap-singh-rautela-89354524b/)
 
 ---
 
@@ -117,8 +108,4 @@
 
 > 🧠 _"Code is poetry. Infrastructure is logic. AI is the future."_  
 > 🛠 *Let’s build it together.*
-
-
-
-
 
