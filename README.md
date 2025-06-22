@@ -9,7 +9,6 @@
 </p>
 <h1 align="center">
   <a href="https://github.com/garv1garv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Garv+Pratap+Singh+Rautela;AI+Engineer+%7C+DevOps+%7C+DSA+Enthusiast;Let’s+build+the+future+with+code!" alt="Typing SVG" />
   </a>
 </h1>
 
