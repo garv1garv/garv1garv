@@ -63,7 +63,7 @@
 <!-- Trophies -->
 <h2><img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="28">&nbsp;Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=matrix&column=7&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=garv1garv&theme=dracula" />
 </p>
 
 <!-- Competitive Programming -->
