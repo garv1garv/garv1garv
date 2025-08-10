@@ -69,7 +69,7 @@
 <!-- Competitive Programming -->
 <h2>🏁 Competitive Programming</h2>
 <p>
-  <img src="https://img.shields.io/badge/Codeforces-_infinite_-blue?style=flat-square&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-_bladewaltz_-blue?style=flat-square&logo=codeforces" />
   <img src="https://img.shields.io/badge/LeetCode-800%2B-orange?style=flat-square&logo=leetcode" />
   <img src="https://img.shields.io/badge/CodeChef-4★-brightgreen?style=flat-square&logo=codechef" />
 </p>
