@@ -48,8 +48,7 @@
 
 <h2><img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="28">&nbsp;Stats of Obsession</h2>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garv1garv&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garv1garv&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garv1garv&theme=tokyonight" /><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garv1garv&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garv1garv&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=garv1garv&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garv1garv&theme=tokyonight&utcOffset=5.5" />
