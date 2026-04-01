@@ -34,9 +34,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,docker,kubernetes,aws" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,typescript,flask" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,typescript,flask,rust" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,mongodb,mysql,nextjs" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
